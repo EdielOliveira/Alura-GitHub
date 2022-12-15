@@ -1,9 +1,10 @@
 <h2 align="center"> Alura GitHub </h2>
 
 <div align="center">
-
-<img src="http://img.shields.io/static/v1?label=LINGUAGEM&message=%20HTML&color=ED1C24&style=for-the-badge">
-<img src="http://img.shields.io/static/v1?label=PLATAFORMA&message=%20VISUALSTUDIO&color=753475&style=for-the-badge">
+  
+![GitHub repo size](https://img.shields.io/github/repo-size/EdielOliveira/Alura-GitHub?style=for-the-badge)
+<img src="http://img.shields.io/static/v1?label=LINGUAGEM&message=%20HTML&color=E34C26&style=for-the-badge">
+<img src="http://img.shields.io/static/v1?label=PLATAFORMA&message=%20VISUALSTUDIO&color=68217A&style=for-the-badge">
 
 </div>
 <div align="center">
